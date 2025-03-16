@@ -17,7 +17,8 @@ function mapExperienceData() {
         "PHP",
         "Ai Integration",
         "Getx",
-        "Riverpod"
+        "Riverpod",
+        "CRUD Operations",
       ],
       details: [
         "Started as an Intern, gaining hands-on experience in Flutter development and mobile app architecture.",
