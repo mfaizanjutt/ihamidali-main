@@ -7,7 +7,7 @@ function mapExperienceData() {
     {
       org: "SUFFATECH IT SOLUTIONS SAHIWAL",
       position: "Flutter Developer",
-      duration: "FEBURARY 2024 - 2025",
+      duration: "FEBURARY 2024 -March 2025",
       technologies: [
         "Flutter",
         "Dart",
@@ -16,6 +16,9 @@ function mapExperienceData() {
         "Front-End & Back-End",
         "Cross-Platform",
         "Building Dart packages",
+        "MySQL",
+        "PHP",,
+        "Firebase",
         "Business Development",
       ],
       details: [
