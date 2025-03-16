@@ -22,7 +22,7 @@ function mapSocialLinksData() {
   let socials = [
     {
       icon: "fa fa-linkedin-square",
-      value: "https://www.linkedin.com/in/devhamidali/",
+      value: "https://www.linkedin.com/in/ihamidali/",
     },
     {
       icon: "fa fa-github",
