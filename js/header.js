@@ -26,7 +26,7 @@ function mapSocialLinksData() {
     },
     {
       icon: "fa fa-github",
-      value: "https://github.com/devhamidali",
+      value: "https://github.com/devhamidali", 
     },
     {
       icon: "fa fa-facebook-square",

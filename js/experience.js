@@ -16,6 +16,7 @@ function mapExperienceData() {
         "Front-End & Back-End",
         "Cross-Platform",
         "Building Dart packages",
+        "Business Development",
       ],
       details: [
         "Design, develop, and maintain mobile applications & Cross Platform Applications using Flutter.",
