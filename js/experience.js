@@ -17,11 +17,9 @@ function mapExperienceData() {
         "PHP",
       ],
       details: [
-        "Design, develop, and maintain mobile applications & Cross Platform Applications using Flutter.",
-        "Collaborate with cross-functional teams to define, design, and ship new features.",
-        "Ensure the performance, quality, and responsiveness of applications.",
-        "Identify fix bugs.",
-        "Continuously discover, evaluate, and implement new technologies to maximize development efficiency.",
+        "Started as an Intern, gaining hands-on experience in Flutter development and mobile app architecture.",
+        "Promoted to Junior Developer, expanding technical expertise in Flutter, REST APIs, and state management.",
+        "integrated REST APIs for real-time data exchange, increased engagement and Optimized performance using lazy loading, caching, and state management",
       ],
     },
   ];
