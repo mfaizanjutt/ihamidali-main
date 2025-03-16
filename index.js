@@ -87,7 +87,7 @@ function onScroll(event) {
 /// Add your cv here and paste link
 function downloadResume() {
   window.open(
-    "https://docs.google.com/document/d/1v8R-xbILqlzhl8ghsX7a8uGIglZpL_5l/edit",
+    "https://docs.google.com/document/d/1ofBwzMZXQy5YuvtZnAghlMfyNzwlIn63/edit?usp=sharing&ouid=106426033216867487553&rtpof=true&sd=true",
     "_blank"
   );
 }
